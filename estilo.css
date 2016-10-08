@@ -1,0 +1,15 @@
+body{
+	background-color: #00FFFF;
+}
+.titulo{
+	color:#FA58D0;
+	font-family:cursive;
+}
+.subtitulo{
+	color:#E61D49;
+	font-size:50px;
+	font-family: "fantasy";
+}
+.parrafo{
+	color:#1D35E6
+}

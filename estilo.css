@@ -1,5 +1,9 @@
 body{
-	background-color: #00FFFF;
+	background-color: #8DD64D;
+	color:#1D35E6;
+	font-style:italic;
+	text-align: justify;
+	font-size: 20px;
 }
 .titulo{
 	color:#FA58D0;
@@ -9,7 +13,16 @@ body{
 	color:#E61D49;
 	font-size:50px;
 	font-family: "fantasy";
+	text-align: center;
 }
-.parrafo{
-	color:#1D35E6
+.datos-libro{
+	color: #CC2EFA;
+	font-size: 20px;
+
 }
+.portada-libro{
+	padding: 30px;
+	border-radius: 20px;
+	
+
+ }
